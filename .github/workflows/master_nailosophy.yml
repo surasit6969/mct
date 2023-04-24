@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Nailosophy'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B5BD90EEA325486C848171CBEF3705DE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F565ED32555643EE85D00CD624E678BF }}
           package: .
